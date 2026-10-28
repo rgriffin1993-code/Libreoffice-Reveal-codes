@@ -1,3 +1,3 @@
-download the extension file. double-click to install. open LibreOffice, View> reveal codes to open panel  
+download the extension file oxt. double-click to install. open LibreOffice, View> reveal codes to open panel  
 
 delete misbehaving code
