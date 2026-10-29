@@ -12,3 +12,6 @@ This is a free Libreoffice Reveal Codes, Wordperfect style. The extension opens 
 download the extension file oxt. double-click to install. open LibreOffice, View> reveal codes to open panel  
 
 delete misbehaving code
+
+
+Currently in initial release, designed on a Mac. Please let me know if there are any issues.
