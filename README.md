@@ -14,4 +14,4 @@ download the extension file oxt. double-click to install. open LibreOffice, View
 delete misbehaving code
 
 
-Currently in initial release, designed on a Mac. Please let me know if there are any issues.
+Currently in initial release, designed on a Mac. Confirmed to work on MacOS Big Sur and Windows 11. Please let me know if there are any issues.
