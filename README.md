@@ -17,6 +17,9 @@ Designed on a Mac. Confirmed to work on MacOS Big Sur and Windows 11. Please let
 
 Version 2 includes multilingual support based on the local language setting in Preferences>Languages>General>Formats>Locale as well as adding features such as "delete all" of a code. 
 
-Tested on English, Irish, Welsh, French, German, Spanish, Greek, Chinese (Simplified), Turkish, Danish. Terminology drawn from LibreOffice internal documentation -- please review and send corrections as needed.
+The goal is Reveal Codes descriptions in every language LibreOffice releases in. 
+
+Defaults to English (Canada 🍁)
+Spot-checked: English, Irish, Welsh, French, German, Spanish, Greek, Chinese (Simplified), Turkish, Danish. Terminology drawn from LibreOffice internal documentation -- please review and send corrections as needed.
 
 Stay tuned for more extensions, such as Word count improvements, Make it fit, and other utility tweaks
