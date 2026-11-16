@@ -20,6 +20,6 @@ Version 2 includes multilingual support based on the local language setting in P
 The goal is Reveal Codes descriptions in every language LibreOffice releases in. 
 
 Defaults to English (Canada 🍁)
-Spot-checked: English, Irish, Welsh, French, German, Spanish, Greek, Chinese (Simplified), Turkish, Danish. Terminology drawn from LibreOffice internal documentation -- please review and send corrections as needed.
+Spot-checked: English, Irish, Welsh, French, German, Spanish, Portuguese, Greek, Chinese (Simplified), Turkish, Danish. Terminology drawn from LibreOffice internal documentation -- please review and send corrections as needed.
 
 Stay tuned for more extensions, such as Word count improvements, Make it fit, and other utility tweaks
