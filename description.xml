@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+             xmlns:d="http://openoffice.org/extensions/description/2006"
+             xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier value="org.revealcodes.extension"/>
+  <version value="0.4.2"/>
+  <display-name>
+    <name lang="en">Reveal Codes</name>
+    <name lang="en-CA">Reveal Codes</name>
+    <name lang="fr">Révéler les codes</name>
+    <name lang="de">Codes anzeigen</name>
+    <name lang="es">Mostrar códigos</name>
+    <name lang="it">Mostra codici</name>
+    <name lang="pt">Revelar códigos</name>
+    <name lang="pt-BR">Revelar códigos</name>
+    <name lang="nl">Codes weergeven</name>
+    <name lang="sv">Visa koder</name>
+    <name lang="da">Vis koder</name>
+    <name lang="nb">Vis koder</name>
+    <name lang="fi">Näytä koodit</name>
+    <name lang="pl">Pokaż kody</name>
+    <name lang="cs">Zobrazit kódy</name>
+    <name lang="sk">Zobraziť kódy</name>
+    <name lang="hu">Kódok megjelenítése</name>
+    <name lang="ro">Afișare coduri</name>
+    <name lang="ru">Показать коды</name>
+    <name lang="uk">Показати коди</name>
+    <name lang="bg">Показване на кодовете</name>
+    <name lang="el">Εμφάνιση κωδικών</name>
+    <name lang="tr">Kodları göster</name>
+    <name lang="ca">Mostra els codis</name>
+    <name lang="gl">Amosar códigos</name>
+    <name lang="eu">Erakutsi kodeak</name>
+    <name lang="hr">Prikaži kodove</name>
+    <name lang="sl">Prikaži kode</name>
+    <name lang="sr">Прикажи кодове</name>
+    <name lang="lt">Rodyti kodus</name>
+    <name lang="lv">Rādīt kodus</name>
+    <name lang="et">Kuva koodid</name>
+    <name lang="he">הצגת קודים</name>
+    <name lang="ar">إظهار الرموز</name>
+    <name lang="ja">コードを表示</name>
+    <name lang="ko">코드 표시</name>
+    <name lang="zh-CN">显示代码</name>
+    <name lang="zh-TW">顯示代碼</name>
+    <name lang="vi">Hiện mã</name>
+    <name lang="id">Tampilkan kode</name>
+    <name lang="hi">कोड दिखाएँ</name>
+  </display-name>
+  <dependencies>
+    <d:OpenOffice.org-minimal-version value="4.0" d:name="LibreOffice 4.0"/>
+  </dependencies>
+</description>

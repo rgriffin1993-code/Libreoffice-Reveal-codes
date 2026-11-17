@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry"
+                    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                    oor:name="Addons" oor:package="org.openoffice.Office">
+  <node oor:name="AddonUI">
+    <node oor:name="OfficeMenuBarMerging">
+      <node oor:name="org.revealcodes.menu" oor:op="replace">
+        <node oor:name="S1" oor:op="replace">
+          <prop oor:name="MergePoint"><value>.uno:ViewMenu\.uno:Sidebar</value></prop>
+          <prop oor:name="MergeCommand"><value>AddAfter</value></prop>
+          <prop oor:name="MergeFallback"><value>AddPath</value></prop>
+          <prop oor:name="MergeContext"><value>com.sun.star.text.TextDocument</value></prop>
+          <node oor:name="MenuItems">
+            <node oor:name="M1" oor:op="replace">
+              <prop oor:name="URL" oor:type="xs:string"><value>.uno:SidebarDeck.RevealCodesDeck</value></prop>
+              <prop oor:name="Title" oor:type="xs:string"><value xml:lang="en-US">Reveal Codes</value><value xml:lang="en-CA">Reveal Codes</value><value xml:lang="en-GB">Reveal Codes</value><value xml:lang="fr">Révéler les codes</value><value xml:lang="de">Codes anzeigen</value><value xml:lang="es">Mostrar códigos</value><value xml:lang="it">Mostra codici</value><value xml:lang="pt">Revelar códigos</value><value xml:lang="pt-BR">Revelar códigos</value><value xml:lang="nl">Codes weergeven</value><value xml:lang="sv">Visa koder</value><value xml:lang="da">Vis koder</value><value xml:lang="nb">Vis koder</value><value xml:lang="fi">Näytä koodit</value><value xml:lang="pl">Pokaż kody</value><value xml:lang="cs">Zobrazit kódy</value><value xml:lang="sk">Zobraziť kódy</value><value xml:lang="hu">Kódok megjelenítése</value><value xml:lang="ro">Afișare coduri</value><value xml:lang="ru">Показать коды</value><value xml:lang="uk">Показати коди</value><value xml:lang="bg">Показване на кодовете</value><value xml:lang="el">Εμφάνιση κωδικών</value><value xml:lang="tr">Kodları göster</value><value xml:lang="ca">Mostra els codis</value><value xml:lang="gl">Amosar códigos</value><value xml:lang="eu">Erakutsi kodeak</value><value xml:lang="hr">Prikaži kodove</value><value xml:lang="sl">Prikaži kode</value><value xml:lang="sr">Прикажи кодове</value><value xml:lang="lt">Rodyti kodus</value><value xml:lang="lv">Rādīt kodus</value><value xml:lang="et">Kuva koodid</value><value xml:lang="he">הצגת קודים</value><value xml:lang="ar">إظهار الرموز</value><value xml:lang="ja">コードを表示</value><value xml:lang="ko">코드 표시</value><value xml:lang="zh-CN">显示代码</value><value xml:lang="zh-TW">顯示代碼</value><value xml:lang="vi">Hiện mã</value><value xml:lang="id">Tampilkan kode</value><value xml:lang="hi">कोड दिखाएँ</value></prop>
+              <prop oor:name="Target" oor:type="xs:string"><value>_self</value></prop>
+              <prop oor:name="Context" oor:type="xs:string"><value>com.sun.star.text.TextDocument</value></prop>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</oor:component-data>
